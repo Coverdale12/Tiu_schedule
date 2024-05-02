@@ -109,5 +109,5 @@ def main(): #функция создания окна
     place_schedule() # Обращение у установке расписания в окне
     win.mainloop()
 
-if __name__ == '__main__':
+if __name__ == '__main__': #запуск программы
     main()
